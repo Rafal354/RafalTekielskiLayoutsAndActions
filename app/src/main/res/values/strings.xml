@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RafalTekielskiLayoutsAndActions</string>
+    <string name="hello_there">Hello There From XML File</string>
+    <string name="android_is_so_awesome">Android is so awesome</string>
+    <string name="remember">Remember</string>
+    <string name="write_to_logcat">Write to LogCat</string>
+    <string name="write_to_logcat_listener">Write To LogCat - Listener</string>
+    <string name="show_toast">Show Toast</string>
+    <string name="we_write_here_something">We write here something</string>
+    <string name="write_to_textview">Write to TextView</string>
+    <string name="i_love_this_game">I love this game</string>
+    <string name="data_binding_should_work_here">Data binding should work here</string>
+    <string name="update_user_first_name">Update user first name</string>
+    <string name="update_user_last_name">Update user last name</string>
+    <string name="enter_last_name">enter last name</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+</resources>
